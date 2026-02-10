@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Цвет для уведомлений (зеленый для растений) -->
+    <color name="notification_color">#4CAF50</color>
+    
+    <!-- Стандартные цвета Flutter -->
+    <color name="launch_background">#FFFFFFFF</color>
+    <color name="normal_background">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "sansevieria",
+    "name": "Сансевиерия",
+    "common_name": "Тёщин язык",
+    "watering_interval_days": 14,
+    "fertilizing_interval_months": 2,
+    "light": "Рассеянный свет, переносит полутень",
+    "temperature_celsius": "16–28",
+    "repotting_years": 2,
+    "notes": "Не переносит застоя воды в корнях. Зимой полив сократить до минимума."
+  },
+  {
+    "id": "ficus_benjamina",
+    "name": "Фикус Бенджамина",
+    "common_name": "",
+    "watering_interval_days": 7,
+    "fertilizing_interval_months": 1,
+    "light": "Яркий рассеянный свет, без прямых лучей",
+    "temperature_celsius": "18–25",
+    "repotting_years": 1,
+    "notes": "Летом требует регулярного полива. Опадение листьев — реакция на смену условий."
+  },
+  {
+    "id": "phalaenopsis",
+    "name": "Орхидея Фаленопсис",
+    "common_name": "",
+    "watering_interval_days": 7,
+    "fertilizing_interval_months": 0.5,
+    "light": "Яркий рассеянный свет (восточное окно)",
+    "temperature_celsius": "18–28",
+    "repotting_years": 1,
+    "notes": "Поливать методом погружения. После цветения обрезать цветонос."
+  },
+  {
+    "id": "zamioculcas",
+    "name": "Замиокулькас",
+    "common_name": "Долларовое дерево",
+    "watering_interval_days": 14,
+    "fertilizing_interval_months": 2,
+    "light": "Светлое место, переносит полутень",
+    "temperature_celsius": "18–30",
+    "repotting_years": 2,
+    "notes": "Клубни хранят воду — лучше недолить, чем перелить."
+  },
+  {
+    "id": "spathiphyllum",
+    "name": "Спатифиллум",
+    "common_name": "Женское счастье",
+    "watering_interval_days": 5,
+    "fertilizing_interval_months": 1,
+    "light": "Полутень, без прямого солнца",
+    "temperature_celsius": "18–24",
+    "repotting_years": 1,
+    "notes": "Любит высокую влажность. Опрыскивайте листья регулярно."
+  },
+  {
+    "id": "monstera",
+    "name": "Монстера",
+    "common_name": "",
+    "watering_interval_days": 7,
+    "fertilizing_interval_months": 1,
+    "light": "Яркий рассеянный свет",
+    "temperature_celsius": "18–27",
+    "repotting_years": 1,
+    "notes": "Листья можно протирать влажной тряпкой. Поддерживайте опору для лианы."
+  },
+  {
+    "id": "chlorophytum",
+    "name": "Хлорофитум",
+    "common_name": "",
+    "watering_interval_days": 5,
+    "fertilizing_interval_months": 1,
+    "light": "Полутень или рассеянный свет",
+    "temperature_celsius": "15–25",
+    "repotting_years": 1,
+    "notes": "Один из самых неприхотливых очистителей воздуха."
+  },
+  {
+    "id": "aloe",
+    "name": "Алоэ древовидное",
+    "common_name": "Столетник",
+    "watering_interval_days": 10,
+    "fertilizing_interval_months": 2,
+    "light": "Яркий свет, прямые солнечные лучи",
+    "temperature_celsius": "18–26",
+    "repotting_years": 2,
+    "notes": "Суккулент — полив только после полного просыхания почвы."
+  },
+  {
+    "id": "dracaena",
+    "name": "Драцена",
+    "common_name": "",
+    "watering_interval_days": 7,
+    "fertilizing_interval_months": 1,
+    "light": "Рассеянный свет, без прямого солнца",
+    "temperature_celsius": "18–25",
+    "repotting_years": 2,
+    "notes": "Чувствительна к фтору в воде — используйте отстоянную воду."
+  },
+  {
+    "id": "peperomia",
+    "name": "Пеперомия",
+    "common_name": "",
+    "watering_interval_days": 7,
+    "fertilizing_interval_months": 2,
+    "light": "Полутень",
+    "temperature_celsius": "18–24",
+    "repotting_years": 2,
+    "notes": "Мелкие листья — меньше испарение, полив умеренный."
+  },
+  {
+    "id": "kalanchoe",
+    "name": "Каланхоэ",
+    "common_name": "",
+    "watering_interval_days": 10,
+    "fertilizing_interval_months": 1,
+    "light": "Яркий свет, прямые лучи допустимы",
+    "temperature_celsius": "16–25",
+    "repotting_years": 1,
+    "notes": "Цветёт зимой. После цветения — обрезка и отдых."
+  },
+  {
+    "id": "fatsia",
+    "name": "Фатсия японская",
+    "common_name": "",
+    "watering_interval_days": 7,
+    "fertilizing_interval_months": 1,
+    "light": "Полутень",
+    "temperature_celsius": "15–22",
+    "repotting_years": 2,
+    "notes": "Любит прохладу и влажность. Не ставьте рядом с батареей."
+  },
+  {
+    "id": "aspidistra",
+    "name": "Аспидистра",
+    "common_name": "Чугунное дерево",
+    "watering_interval_days": 10,
+    "fertilizing_interval_months": 2,
+    "light": "Глубокая полутень",
+    "temperature_celsius": "10–24",
+    "repotting_years": 3,
+    "notes": "Выдерживает почти любые условия, кроме прямого солнца."
+  },
+  {
+    "id": "hedera",
+    "name": "Плющ (Хедера)",
+    "common_name": "",
+    "watering_interval_days": 5,
+    "fertilizing_interval_months": 1,
+    "light": "Полутень",
+    "temperature_celsius": "12–20",
+    "repotting_years": 1,
+    "notes": "Любит прохладу и влажность. Опасен для домашних животных."
+  },
+  {
+    "id": "crassula",
+    "name": "Крассула овата",
+    "common_name": "Денежное дерево",
+    "watering_interval_days": 10,
+    "fertilizing_interval_months": 2,
+    "light": "Яркий свет, прямые лучи",
+    "temperature_celsius": "18–25",
+    "repotting_years": 2,
+    "notes": "Суккулент. Поливайте редко, но обильно."
+  }
+]
