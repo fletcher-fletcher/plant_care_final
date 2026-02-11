@@ -513,6 +513,7 @@ ${widget.plantType} пока нет в нашей базе, но я могу д�
       appBar: AppBar(
         title: Text('📚 Гид по уходу: ${widget.plantType}'), // Исправлено на plantType
         backgroundColor: Colors.green[50],
+		foregroundColor: Colors.black87,  
         actions: [
           if (_plantGuide != null)
             IconButton(
