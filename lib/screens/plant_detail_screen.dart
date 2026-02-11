@@ -337,6 +337,7 @@ class _PlantDetailScreenState extends State<PlantDetailScreen> with SingleTicker
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.plant.name),
+		foregroundColor: Colors.black87,  
         backgroundColor: Colors.green[50],
         actions: [
           // Кнопка Базы знаний
