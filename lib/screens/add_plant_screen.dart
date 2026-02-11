@@ -77,6 +77,7 @@ class _AddPlantScreenState extends State<AddPlantScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Добавить растение'),
+		foregroundColor: Colors.black87,  
         backgroundColor: Colors.green[50],
       ),
       body: Padding(
